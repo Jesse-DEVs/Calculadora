@@ -18,5 +18,5 @@ A calculadora suporta operações básicas como **adição (+), subtração (-),
 
 1. **Clone o repositório ou copie o código**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-tkinter.git
+   git clone https://github.com/Jesse-DEVs/Calculadora.git
    cd calculadora-tkinter
